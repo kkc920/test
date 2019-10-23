@@ -18,6 +18,7 @@ public class Member implements java.io.Serializable{
 	private Date enrollDate;
 	private Date modifyDate;
 	private String status;
+	private int age;
 	
 	// 필요에 의해 추가적인 매개변수 생성자 생성 가능
 	
